@@ -4,7 +4,6 @@ Medical AI researcher working on medical image segmentation and the reliability 
 
 ## Current work
 
-- **3D kidney tumor segmentation** — benchmarking eight architectures with ensemble optimization on KiTS23 (paper in progress)
 - **VLM reliability** — hallucination and reliability probing for clinical vision-language models on chest X-rays
 - **CXR-Fusion** — leakage-controlled multimodal chest X-ray classification on MIMIC-CXR (DenseNet121 + BioClinicalBERT, gated fusion)
 
