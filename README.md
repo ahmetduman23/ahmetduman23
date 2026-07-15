@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ahmet Yasir Duman
 
-<!--
-**ahmetduman23/ahmetduman23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Medical AI researcher working on medical image segmentation and the reliability of vision-language models in clinical settings.
 
-Here are some ideas to get you started:
+## Current work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **3D kidney tumor segmentation** — benchmarking eight architectures with ensemble optimization on KiTS23 (paper in progress)
+- **VLM reliability** — hallucination and reliability probing for clinical vision-language models on chest X-rays
+- **CXR-Fusion** — leakage-controlled multimodal chest X-ray classification on MIMIC-CXR (DenseNet121 + BioClinicalBERT, gated fusion)
+
+## Background
+
+- Published: Hybrid ViT-based skin burn detection — [Information Dynamics and Applications](https://doi.org/10.56578/ida040402)
+- Award-winning stroke MRI prioritization system (3D U-Net, ISLES 2022)
+- TEKNOFEST 2025 Health Technologies — top 11 of 3,200 teams
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ahmetyasirduman) · [X](https://x.com/AhmetYasirDuman) · ahmetyasirduman@gmail.com
